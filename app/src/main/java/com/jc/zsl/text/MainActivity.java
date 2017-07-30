@@ -13,7 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         findViewById(R.id.all);
         RelativeLayout relativeLayout;
-
+        String ste;
+        int arr;
         LinearLayout linearLayout = new LinearLayout(this);
     }
 }

@@ -7,5 +7,5 @@ import android.widget.TextView;
  */
 
 public class asdsd {
-    TextView mTextView ;
+    TextView mTextView  ;
 }

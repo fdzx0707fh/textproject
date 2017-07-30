@@ -5,4 +5,7 @@ package com.jc.zsl.text;
  */
 
 public class asdsd {
+    public void main() {
+
+    }
 }

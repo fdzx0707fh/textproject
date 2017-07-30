@@ -2396,7 +2396,14 @@
       <option name="project" value="LOCAL" />
       <updated>1501409919628</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="jia">
+      <created>1501410037100</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1501410037100</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2470,7 +2477,8 @@
     <MESSAGE value="3" />
     <MESSAGE value="xiugai" />
     <MESSAGE value="1212" />
-    <option name="LAST_COMMIT_MESSAGE" value="1212" />
+    <MESSAGE value="jia" />
+    <option name="LAST_COMMIT_MESSAGE" value="jia" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

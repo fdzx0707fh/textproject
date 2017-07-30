@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="18b9068e-f095-4d75-8dfb-ff2e5bee3a7d" name="Default" comment="jia233">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
+    <list default="true" id="18b9068e-f095-4d75-8dfb-ff2e5bee3a7d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/jc/zsl/text/asdsd.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/jc/zsl/text/asdsd.java" />
     </list>
     <list id="6408cfed-59b5-49ac-a420-3f3cc31eddda" name="Failed commit: Default" comment="屏幕适配" />
     <ignored path="textproject.iws" />
@@ -61,8 +59,8 @@
       <file leaf-file-name="asdsd.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jc/zsl/text/asdsd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="133">
+              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -2426,7 +2424,28 @@
       <option name="project" value="LOCAL" />
       <updated>1501410153191</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="fhssssssss">
+      <created>1501412136909</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1501412136909</updated>
+    </task>
+    <task id="LOCAL-00018" summary="sd">
+      <created>1501412280598</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1501412280598</updated>
+    </task>
+    <task id="LOCAL-00019" summary="eee">
+      <created>1501412320585</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1501412320585</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2502,7 +2521,10 @@
     <MESSAGE value="1212" />
     <MESSAGE value="jia" />
     <MESSAGE value="jia233" />
-    <option name="LAST_COMMIT_MESSAGE" value="jia233" />
+    <MESSAGE value="fhssssssss" />
+    <MESSAGE value="sd" />
+    <MESSAGE value="eee" />
+    <option name="LAST_COMMIT_MESSAGE" value="eee" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -2551,8 +2573,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/jc/zsl/text/asdsd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="133">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
